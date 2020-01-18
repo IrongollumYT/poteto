@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=";nfDwGv=LPu7KR96H@,m">mySprite</variable><variable type="KIND_SpriteKind" id="$oS$l=}]:$SF{z_MF#3a">Player</variable><variable type="KIND_SpriteKind" id="SFoGVKM=cjl%8+(r)].]">Projectile</variable><variable type="KIND_SpriteKind" id="wY0yE-m6F:,dYl9tRbE(">Food</variable><variable type="KIND_SpriteKind" id="8cP6:_2-eIgj[;!?+^DU">Enemy</variable></variables><block type="pxt-on-start" x="0" y="0"/><block type="variables_set" disabled="true" x="20" y="140"><field name="VAR" id=";nfDwGv=LPu7KR96H@,m">mySprite</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow></value></block><block type="spritescreate" disabled="true" x="0" y="200"><value name="img"><shadow type="screen_image_picker"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field></shadow></value><value name="kind"><shadow type="spritekind"><field name="MEMBER">Player</field></shadow></value></block><block type="playMelody" disabled="true" x="60" y="300"><value name="melody"><shadow type="melody_editor"><field name="melody">"B A B D G A E - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value></block></xml>
